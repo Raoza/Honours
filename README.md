@@ -1,5 +1,5 @@
 # Honours
-Variety of scripts and programs developed and edited during my honours thesis.
+Variety of scripts and programs developed and edited during my honours thesis. These scripts were run on PAWSEY's Nimbus Supercomputer to obtain more computationally intensive results.
 
 **1. Counting Hamilton Cycles** [C, vim]
 This script counts the number of Hamilton cycles in a graph, taking g6 strings as input. 
@@ -24,4 +24,4 @@ to enumerate the number of Hamilton cycles in them.
 
 **4. Extending the Results of Royle and Pivotto - Counting Hamilton Cycles in Width 7 Nanotubes** [Python, Sagemath]
 Program which utilises Royle and Pivottos transfer matrix method for caluclating Hamilton Cycles
-in a family of planar graphs referred to as nanotubes. Extending their results to width 7 nanotubes, from scratch.
+in a family of planar graphs referred to as nanotubes. This program extends their results to width 7 nanotubes, from scratch. The problem and it's calculations were defined in section 5 to 7 in the paper: https://www.sciencedirect.com/science/article/pii/S0012365X19302705
